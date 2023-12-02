@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Roboto Regular";
+   src: url("fonts/Roboto Regular.woff") format("woff"), url("fonts/Roboto Regular.eot") format("embedded-opentype"), url("fonts/Roboto Regular.ttf") format("truetype"), url("fonts/Roboto Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Bold.woff") format("woff"), url("fonts/Antonio Bold.eot") format("embedded-opentype"), url("fonts/Antonio Bold.ttf") format("truetype"), url("fonts/Antonio Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Light.woff") format("woff"), url("fonts/Antonio Light.eot") format("embedded-opentype"), url("fonts/Antonio Light.ttf") format("truetype"), url("fonts/Antonio Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Regular.woff") format("woff"), url("fonts/Antonio Regular.eot") format("embedded-opentype"), url("fonts/Antonio Regular.ttf") format("truetype"), url("fonts/Antonio Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}

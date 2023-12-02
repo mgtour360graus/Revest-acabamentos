@@ -1,0 +1,164 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_5EF7705C_726F_F160_41BF_9C78F536ADAD.source = https://contate.me/revest-acabamentos-mga
+LinkBehaviour_3F058D77_01E1_05A6_4175_DCFBA1254C67.source = https://contate.me/revest-acabamentos-mga
+LinkBehaviour_6C713B61_7360_B116_41CD_59AB5927F5D7.source = https://contate.me/revest-acabamentos-mga
+PopupWebFrameBehaviour_3A8A8446_026F_7BE6_4128_A7EA6EA53740.url = https://viarosa.com.br/
+PopupWebFrameBehaviour_398262E3_0263_7CDE_418C_B8D0A8BA3EB6.url = https://www.ceramicaportinari.com.br/
+PopupWebFrameBehaviour_3BB8CD24_0261_055B_4166_E683502F4B7B.url = https://www.decortiles.com/
+LinkBehaviour_590F2887_7261_F1E0_41C6_854926841241.source = https://www.facebook.com/lojarevestacabamentos
+LinkBehaviour_6C732B5F_7360_B12A_4190_366D68CC5926.source = https://www.facebook.com/lojarevestacabamentos
+WebFrame_44F6CBFD_7281_616A_41C4_EE53AE1BA65E.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d228.8315805044984!2d-51.92950255092622!3d-23.41333661735378!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd129d1c6915b%3A0xb036c9f02b8db15c!2sRevest%20Acabamentos!5e0!3m2!1sen!2sbr!4v1700904542531!5m2!1sen!2sbr
+WebFrame_44F6CBFD_7281_616A_41C4_EE53AE1BA65E_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d915.3250345863977!2d-51.92974713194658!3d-23.41352272587039!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd129d1c6915b%3A0xb036c9f02b8db15c!2sRevest%20Acabamentos!5e0!3m2!1sen!2sbr!4v1701105153480!5m2!1sen!2sbr
+LinkBehaviour_6C73EB5F_7360_B12A_41D5_618C0B269DE6.source = https://www.instagram.com/revestacabamentos
+LinkBehaviour_5F00E5FB_7261_1320_41A6_C5C47C13AB44.source = https://www.instagram.com/revestacabamentos
+LinkBehaviour_631B7B96_773E_64E3_41D0_58169491D7A5.source = https://www.mgtour360.com.br
+LinkBehaviour_630FFA7D_773A_E421_41C2_CE53AA273275.source = https://www.mgtour360.com.br/
+WebFrame_6CBABDAF_7183_E1E6_41D9_017392F889EA.url = https://www.revestacabamentos.com.br/
+WebFrame_6CBABDAF_7183_E1E6_41D9_017392F889EA_mobile.url = https://www.revestacabamentos.com.br/
+PopupWebFrameBehaviour_38F88D98_02A1_056A_4180_97CE7DD3470A.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-
+PopupWebFrameBehaviour_4565FD4F_025F_05E6_4178_A069A54A10BA.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-
+PopupWebFrameBehaviour_3BB7C2ED_02A1_1CA5_417B_E4CD8462E87C.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-#&search-term=APIA
+PopupWebFrameBehaviour_443B4C64_02A1_0BDA_418F_3A64CCB8D0C0.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-#&search-term=BELLACER
+PopupWebFrameBehaviour_399F7E75_02A1_07A5_418E_E3CC437A2048.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-#&search-term=CEUSA
+PopupWebFrameBehaviour_46D01EF2_02A7_04BF_4182_35C5F824FF6B.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-#&search-term=CRISTAL%20POLIDO
+PopupWebFrameBehaviour_399E92F2_02A7_3CBE_4190_0499E68D1C54.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-#&search-term=EMBRAMACO
+PopupWebFrameBehaviour_3947BC77_02A3_0BA5_418D_23BB1CB7AC92.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-#&search-term=EMBRAMACO
+PopupWebFrameBehaviour_39DDD95A_02A1_0DEF_4197_6E2A0887A880.url = https://www.revestacabamentos.com.br/porcelanatos-e-revestimentos/cecafi--vs-#&search-term=IDEALLE
+LinkBehaviour_5EF227A4_7260_FF20_4194_9C1D0378CC39.source = https://www.youtube.com/channel/UCxm6Dc1-U7NRBwsd8Md16Vw
+LinkBehaviour_6C732B60_7360_B116_41D3_B4981A1C0E74.source = https://www.youtube.com/channel/UCxm6Dc1-U7NRBwsd8Md16Vw
+PopupWebFrameBehaviour_39728599_02A1_056D_4187_2BA56B983A6E.url = //www.youtube.com/embed/GOnJNMI5Vnc?v=GOnJNMI5Vnc
+PopupWebFrameBehaviour_477148A7_02BF_0CA5_4195_FABCDA061578.url = //www.youtube.com/embed/OWPtJahCaNI?v=OWPtJahCaNI
+PopupWebFrameBehaviour_3B5736B1_0263_04BA_4180_BA4B0EE182AE.url = //www.youtube.com/embed/oMQNQtI4HII?v=oMQNQtI4HII
+
+## Media
+
+### Audio
+audiores_1A1CBFF3_0D8D_73C4_41A8_81415E745A6B.mp3Url = media/audio_1A5935A6_0D8D_144D_4171_8B2339AC4C7C_pt.mp3
+audiores_305F2CE2_01E3_04DF_4186_3AF23B4A20A9.mp3Url = media/audio_337F6B30_01E1_0DBB_4174_1BAF41951062_pt.mp3
+audiores_47BB37F7_02A1_04A6_4198_25E28F757456.mp3Url = media/audio_47D9FBBF_02A1_0CA6_415A_42945EADF6DE_pt.mp3
+
+### Title
+photo_32893566_01A7_05A7_418D_C76ED030851D.label = 396565859_734361028725272_8299861060181784565_n
+photo_32893566_01A7_05A7_418D_C76ED030851D.label = 396565859_734361028725272_8299861060181784565_n
+photo_30ADB86F_01A7_0BA6_4197_4DD1D9F9ADE6.label = 396707122_736570915170950_4096898379054743315_n
+photo_30ADB86F_01A7_0BA6_4197_4DD1D9F9ADE6.label = 396707122_736570915170950_4096898379054743315_n
+photo_30ADFADF_01A7_0CE5_4183_75F194276949.label = 399002414_740674444760597_8032547114690549652_n
+photo_30ADFADF_01A7_0CE5_4183_75F194276949.label = 399002414_740674444760597_8032547114690549652_n
+photo_30ADBD3A_01A7_05AF_4176_1389EEB9BB9E.label = 399624359_740676228093752_3360029309433757803_n
+photo_30ADBD3A_01A7_05AF_4176_1389EEB9BB9E.label = 399624359_740676228093752_3360029309433757803_n
+photo_30ADBF99_01A7_056D_418C_325B16468807.label = 402656197_746347480859960_8193597836777310873_n
+photo_30ADBF99_01A7_056D_418C_325B16468807.label = 402656197_746347480859960_8193597836777310873_n
+photo_30AE5260_01A7_3FDA_418B_88FE9D4A820A.label = 402661008_746351394192902_5718895255028441393_n
+photo_30AE5260_01A7_3FDA_418B_88FE9D4A820A.label = 402661008_746351394192902_5718895255028441393_n
+panorama_E85FFF7A_FFC5_28FC_41DA_5CBB976C6326.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85F8A47_FFC5_6813_41ED_95565E137654.label = REVEST ACABAMENTOS MARINGÁ
+panorama_EB356D75_FFFD_28F4_41EC_CBE860A92778.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E827B804_FFFD_6815_41D6_EDF281CD0539.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82F0418_FFFD_783D_41D5_B6BFA5FFDE62.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82FFF29_FFFD_681C_41D9_42501B138949.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82F0A24_FFFD_2814_41EA_EC4D5CEBD746.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82FC518_FFFD_383C_41E2_46FB9872EC3E.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82F3FF9_FFFD_27FC_41BC_79FCE561101A.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82FEB14_FFFD_E835_4140_02A791C51000.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82F8692_FFFD_F80C_41E2_3DE40A9C2101.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828A25A_FFFD_183C_41E4_EAF59FC26927.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82F5D39_FFFD_287C_41ED_BB91A2265B33.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8289843_FFFD_280C_41D9_843F61D34827.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82F43B9_FFFD_187C_41B4_6FE97A848C12.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8B2E676_FFFE_F8F4_4197_6AE55A2B3E64.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8268306_FFFD_1814_41D8_58F5631430F5.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E827101B_FFFD_3833_41BF_9F553C664075.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E827BBA1_FFFD_280C_41DE_01B6367D923D.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E827F6EE_FFFD_1815_41ED_DF13C430A401.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82431A4_FFFD_7814_41C1_C33068D02250.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8243C8A_FFFD_681C_41E1_2BE0C4F8E639.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E824688D_FFFD_2814_4199_E42400E4C410.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82463F3_FFFD_380C_41DE_3106AB671D8B.label = REVEST ACABAMENTOS MARINGÁ
+panorama_EBB2CA2D_FFFA_E814_41B9_A084FA0DD3D2.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828C58D_FFFB_1814_41E1_0E039F25C050.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82860B7_FFFB_3874_41E6_2AE091D69809.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828DC6E_FFFB_2815_41CA_F58E5B42F320.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E81EB904_FFC7_2814_41EC_153B9598300A.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85FD924_FFC5_2815_41E0_978C36C17A65.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E829DF3A_FFFB_687D_41AB_A491E8DBA9E3.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8904C0D_FFC7_2814_41EB_14DC2CF7D0F3.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828075E_FFFB_3834_41D1_28CD003A7D63.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85FB435_FFC5_3874_41E5_7C032C29DCD5.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828AE77_FFFB_E8F4_41BB_8BA0B858137E.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828EA71_FFFB_E80C_41E2_7B2B4C060E7C.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828F59D_FFFB_1834_41D6_543AB3FA9007.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82800C6_FFFB_3814_41D5_8A2994ECBC58.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8280B83_FFFB_280C_41A3_3771E85D06E1.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8287755_FFFB_1834_41E0_939090A67AC3.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828125D_FFFB_7837_41E2_41319CDF5FD0.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8278E25_FFFB_6814_41EA_10DE3C902C76.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E827D9CE_FFFB_2814_41EB_52C6F4F7FCB1.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E827D521_FFFB_380C_41D4_91A6AEC07600.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82810C1_FFFB_180C_41E1_90230C374DF1.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8279CEE_FFFA_E814_41D6_3223F92DED88.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E827D833_FFFA_E80C_41D2_4CB1B016B600.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8186338_FFC5_187D_41C5_48F46F26B4DB.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8185EBF_FFC5_2874_41EB_483E3866E35D.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E818BA67_FFC5_2814_41BA_54775B164350.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E818A65A_FFC5_183C_41D4_B6B909FD8817.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E818A173_FFC5_780C_41BD_92209EC12487.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8189E98_FFC5_683D_41DD_264849AB6C9B.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8195A00_FFC5_280D_41B4_34AE7E210910.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E81885D7_FFC5_3833_41E4_EFB74848C10F.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8196124_FFC5_1814_41DF_EA0DF796E9DF.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E818BC1B_FFC5_E833_41D7_38D9A05D54AE.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E81967E4_FFC5_F814_41EE_B03E922C85DB.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8186358_FFC5_183D_41DB_69A70C1F63A9.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828B2F9_FFFB_19FC_41C3_065693E134BC.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85F5DE0_FFC5_E80C_41DF_18B6CEBB3613.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85F62B6_FFC5_F875_41E6_38C71A07BF14.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85E978B_FFC5_181C_41D8_26195271DDD1.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85FCCBD_FFC5_2874_41D5_4AE6E1BC55AC.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85F61E7_FFC5_3814_41D8_EBDE8C114BB5.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E85F5651_FFC5_180C_41C6_B0C8417DD6B7.label = REVEST ACABAMENTOS MARINGÁ
+panorama_EA7B0BEF_FFC5_6813_41D4_A09B6A80B7BC.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E86175D1_FFC7_180C_41EB_747B1D5E2F1D.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E82817A2_FFFB_180C_41E9_FC4E14E9E487.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E828536A_FFFB_781D_41E5_D6D65190F19B.label = REVEST ACABAMENTOS MARINGÁ
+panorama_E8286B7C_FFFB_28F5_41EE_4966946C5A1A.label = REVEST ACABAMENTOS MARINGÁ
+album_36717DA3_01E1_055D_4161_BB1A8C15530D_0.label = capa
+album_36717DA3_01E1_055D_4161_BB1A8C15530D_1.label = estoque
+album_36717DA3_01E1_055D_4161_BB1A8C15530D_2.label = maringa
+album_36717DA3_01E1_055D_4161_BB1A8C15530D.label = Álbum de Fotos capa
+
+## Skin
+
+### Button
+Button_4ECAC50F_6E54_5EDC_41B1_D6C69E7810FC.label = Help
+Button_3EAB8B9C_6E2D_A9FC_41D8_A8EC7B6230F7.label = NAVEGAÇÃO 
+Button_639D24C4_773A_2C67_41DD_65793E7C69D3_mobile.label = mgtour360.com.br
+Button_65AE646D_773A_2C21_41A1_7ED488ACDA40.label = www.mgtour360.com.br
+Button_4F1F22D4_6E2C_7B4C_41D6_3D637296019F.label = |
+
+### Image
+Image_245E0B67_73F4_A94C_41BC_B39EAA1378B1.url = skin/Image_245E0B67_73F4_A94C_41BC_B39EAA1378B1_pt.png
+Image_26A277A3_6E5C_B9C4_418D_3259925FEB13.url = skin/Image_26A277A3_6E5C_B9C4_418D_3259925FEB13_pt.png
+Image_7E2AD7CB_6E34_5944_41D5_DD80D085AEA2_mobile.url = skin/Image_7E2AD7CB_6E34_5944_41D5_DD80D085AEA2_mobile_pt.png
+Image_7E2AD7CB_6E34_5944_41D5_DD80D085AEA2.url = skin/Image_7E2AD7CB_6E34_5944_41D5_DD80D085AEA2_pt.png
+
+### Multiline Text
+HTMLText_6D87FE38_718F_62EA_41D9_15C79BAC7154.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.528114663726572vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.53vmin;"><B><U>Sobre a Revest</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.528114663726572vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.53vmin;"><B><I>Quem somos</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.87vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.8743109151047412vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.87vmin;font-family:Tahoma, Geneva, sans-serif;"><B>Quando iniciou suas atividades em 1996, com uma pequena loja na Av. Colombo, a Revest Acabamentos tinha alguns objetivos bem claros: oferecer pisos e revestimentos, com um atendimento diferenciado que conquistasse a confiança e fidelizasse seus clientes. Anos depois, esses objetivos se expandiram e tomaram novas proporções, mas o princípio de conquistar e fidelizar clientes, em nada mudou. Em 2017, ganhou o Top Of Mind, prêmio de empresa mais lembrada de Maringá no quesito Loja de Material de Construção. Em Novembro de 2018 continuou com sua expansão, inaugurando uma filial da loja na cidade de Paranavaí. Em 2019 repetiu o feito da última edição do Top of Mind (2017) e ganhou como empresa mais lembrada de Maringá do seu segmento. Hoje a Revest é referência, tanto em atendimento quanto na qualidade de seus produtos. Isso porque trabalha com as melhores marcas do mercado. Aqui você pode conferir as últimas tendências em porcelanatos, louças e metais, e também garantir agilidade e praticidade, pois a Revest conta com o maior estoque a pronta entrega do Norte do Paraná.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.87vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.8743109151047412vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.87vmin;font-family:Tahoma, Geneva, sans-serif;"><B>Maior centro de distribuição do norte do Paraná</B></SPAN></SPAN></DIV></div>
+HTMLText_6D87FE38_718F_62EA_41D9_15C79BAC7154_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.888888888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.89vmin;"><B><U>Sobre a Revest</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.888888888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:8.89vmin;"><B><I>Quem somos</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.42vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:4.722222222222223vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.72vmin;font-family:Tahoma, Geneva, sans-serif;"><B>Quando iniciou suas atividades em 1996, com uma pequena loja na Av. Colombo, a Revest Acabamentos tinha alguns objetivos bem claros: oferecer pisos e revestimentos, com um atendimento diferenciado que conquistasse a confiança e fidelizasse seus clientes. Anos depois, esses objetivos se expandiram e tomaram novas proporções, mas o princípio de conquistar e fidelizar clientes, em nada mudou. Em 2017, ganhou o Top Of Mind, prêmio de empresa mais lembrada de Maringá no quesito Loja de Material de Construção. Em Novembro de 2018 continuou com sua expansão, inaugurando uma filial da loja na cidade de Paranavaí. Em 2019 repetiu o feito da última edição do Top of Mind (2017) e ganhou como empresa mais lembrada de Maringá do seu segmento. Hoje a Revest é referência, tanto em atendimento quanto na qualidade de seus produtos. Isso porque trabalha com as melhores marcas do mercado. Aqui você pode conferir as últimas tendências em porcelanatos, louças e metais, e também garantir agilidade e praticidade, pois a Revest conta com o maior estoque a pronta entrega do Norte do Paraná.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.42vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:4.722222222222223vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.72vmin;font-family:Tahoma, Geneva, sans-serif;"><B>Maior centro de distribuição do norte do Paraná</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+WebFrame_6CBABDAF_7183_E1E6_41D9_017392F889EA.toolTip = REVEST ACABAMENTOS
+WebFrame_44F6CBFD_7281_616A_41C4_EE53AE1BA65E.toolTip = https://www.3dvista.com/en/
+WebFrame_6CBABDAF_7183_E1E6_41D9_017392F889EA_mobile.toolTip = https://www.revestacabamentos.com.br/
+WebFrame_44F6CBFD_7281_616A_41C4_EE53AE1BA65E_mobile.toolTip = https://www.revestacabamentos.com.br/
+
+## Tour
+
+### Description
+tour.description = Faça Um Tour em 360 Graus
+
+### Title
+tour.name = Revent Acabamentos
